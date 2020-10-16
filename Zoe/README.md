@@ -1,4 +1,4 @@
-# PIRE_REU_2019
+# PIRE_REU
 Data, scripts, and other materials for 2019 PIRE REUs
 
 Hi Guys,
